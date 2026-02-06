@@ -3,7 +3,7 @@ A simple Age Calculator using HTML, CSS, JS
 # What this project does
 Takes the date entered by the user
 Restricts future dates
-Subtracts birth date from current date
+Subtracts birth date from current days
 Shows the age in terms of years, months and date
 # Languages used
 HTML
